@@ -1236,10 +1236,10 @@ input, select, textarea {
 		}
 
 			.poptrox-popup .loader:before {
-				-moz-animation: spinner-rotate 0.75s infinite linear !important;
-				-webkit-animation: spinner-rotate 0.75s infinite linear !important;
-				-ms-animation: spinner-rotate 0.75s infinite linear !important;
-				animation: spinner-rotate 0.75s infinite linear !important;
+				-moz-animation: spinner-rotate 0.2s infinite linear !important;
+				-webkit-animation: spinner-rotate 0.2s infinite linear !important;
+				-ms-animation: spinner-rotate 0.2s infinite linear !important;
+				animation: spinner-rotate 0.2s infinite linear !important;
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
 				font-family: FontAwesome;
